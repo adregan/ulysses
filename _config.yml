@@ -1,3 +1,4 @@
 name: Ulysses
 pygments: true
-permalink: /:title
+permalink: :title
+baseurl: /ulysses
