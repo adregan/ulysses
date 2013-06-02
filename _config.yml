@@ -1,2 +1,4 @@
-name: Your New Jekyll Site
+name: Ulysses
 pygments: true
+permalink: /:title
+paginate: 10

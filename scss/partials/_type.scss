@@ -1,0 +1,38 @@
+body {
+  color: $text;
+  font-family: 'Gentium Book Basic';
+  font-size: 120%;
+  font-style: normal;
+  font-weight: 400;
+  @media (min-width: 500px) {font-size: 140%;}
+  @media (min-width: 700px) {font-size: 150%;}
+}
+
+a {
+  color:$link;
+}
+
+.decorative-title {
+  font-family: 'Open Sans';
+  font-style: normal;
+  text-transform: uppercase;
+  font-weight: 800;
+}
+
+.readable {
+  line-height: 1.6;
+  p {
+    margin: 0;
+  }
+  p:nth-child(n+2) {text-indent: 1em;}
+}
+
+.posts {
+  dt {
+    font-size: 1.5em;
+    font-style: italic;
+  }
+  dd {
+    color: lighten($text, 20%);
+  }
+}
