@@ -17,6 +17,16 @@ a {
   font-style: normal;
   text-transform: uppercase;
   font-weight: 800;
+  .flourish {
+    font-family: 'Gentium Book Basic';
+    font-size: 1em;
+    font-style: italic;
+    padding: 0 .1em;
+    text-transform: lowercase;
+}
+  .block {
+    display: block;
+  }
 }
 
 .readable {
