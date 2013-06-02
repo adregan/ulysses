@@ -1,7 +1,9 @@
 .page-wrap {
   margin: 0 auto;
-  max-width: 725px;
+  max-width: 750px;
   width: 95%;
+  @media (min-width: 500px) {width: 90%;}
+
 }
 
 .main-content {
