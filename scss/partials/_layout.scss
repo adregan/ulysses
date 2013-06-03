@@ -24,7 +24,10 @@ header.main {
 .posts {
   padding-top: .67em;
   text-align: center;
-  dd {margin: 0;}
+  dd {
+    margin: 0;
+    padding-bottom: 1em;
+  }
 }
 
 .videoWrapper {
