@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Day Two
-date: 2013-06-03 10:24:33.592778000 +09:00
+date: 2013-06-03 10:24:33
 published: true
 ---
 
