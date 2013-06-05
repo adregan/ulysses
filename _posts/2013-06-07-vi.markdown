@@ -2,5 +2,5 @@
 layout: post
 title: Day Six
 date: 2013-06-07 
-published: 'false'
+published: false
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: viii
+title: Day Seven
 date: 2013-06-08
-published: 'false'
+published: false
 ---

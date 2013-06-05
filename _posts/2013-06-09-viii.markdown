@@ -2,5 +2,5 @@
 layout: post
 title: Day Eight
 date: 2013-06-09
-published: 'false'
+published: false
 ---
