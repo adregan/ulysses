@@ -11,6 +11,6 @@ Two pages of Ulysses a day</h1>
 <p>The "you" is really "me," and over the next year, I'm retyping <em>Ulysses</em>, two pages a day.</p>
   <dl class="posts">
     {% for post in site.posts %}
-      <dt class ="display"><a href="{{ post.url }}">{{ post.title }}</a></dt><dd>{{ post.date | date: "%B %e, %Y" }}</dd>
+      <dt><a href="{{ post.url }}">{{ post.title }}</a></dt><dd>{{ post.date | date: "%B %e, %Y" }}</dd>
     {% endfor %}
   </dl>
