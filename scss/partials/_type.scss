@@ -1,6 +1,6 @@
 body {
   color: $text;
-  font-family: "calluna";
+  font-family: "calluna", "Palatino Linotype", "Book Antiqua", Palatino, serif;
   font-size: 120%;
   font-style: normal;
   font-weight: 400;
@@ -17,7 +17,7 @@ blockquote {
 }
 
 .display {
-  font-family: "ambroise-std";
+  font-family: "ambroise-std", "Times New Roman", Times, serif;
   font-style: normal;
   font-weight: 600;
 }
