@@ -1,6 +1,6 @@
 body {
   color: $text;
-  font-family: 'Gentium Book Basic';
+  font-family: "proxima-nova";
   font-size: 120%;
   font-style: normal;
   font-weight: 400;
@@ -16,21 +16,14 @@ blockquote {
   font-style: italic;
 }
 
-.decorative-title {
-  font-family: 'Open Sans';
+.display {
+  font-family: "ambroise-std";
   font-style: normal;
-  text-transform: uppercase;
-  font-weight: 800;
-  .flourish {
-    font-family: 'Gentium Book Basic';
-    font-size: 1em;
-    font-style: italic;
-    padding: 0 .1em;
-    text-transform: lowercase;
+  font-weight: 600;
 }
-  .block {
-    display: block;
-  }
+
+.title {
+    text-transform: uppercase;
 }
 
 .readable {
@@ -44,7 +37,6 @@ blockquote {
 .posts {
   dt {
     font-size: 1.5em;
-    font-style: italic;
   }
   dd {
     color: lighten($text, 20%);
