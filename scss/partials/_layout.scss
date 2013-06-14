@@ -3,7 +3,7 @@
 .page-wrap {
   margin: 0 auto;
   max-width: 730px;
-  width: 95%;
+  width: 90%;
   @media (min-width: 500px) {width: 90%;}
 
 }
@@ -11,19 +11,25 @@
 .main-content {
   padding-bottom: 3em;
   header {
-    padding: 2em 0;
+    padding: 1em 0 2em 0;
   }
 }
 
 .page-title {
-  line-height: .9;
+  text-rendering:auto;
+  padding-top: .5em;
   margin: 0;
   text-align: center;
+  @media (min-width: 500px) {line-height: .9;}
+
 }
 
 .button {
-  float: left;
-  position: absolute;
+  display: inline-block;
+  @media (min-width: 500px) {
+    float: left;
+    position: absolute;
+  }
 }
 
 header.main {
