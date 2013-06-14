@@ -37,6 +37,10 @@ header.main {
   @media (min-width: 500px) {padding-top: 2em;}
 }
 
+.intro {
+  padding: 1em 0;
+}
+
 .posts {
   padding-top: .67em;
   text-align: center;
@@ -54,6 +58,7 @@ blockquote {
   @media (min-width: 700px) {width: 75%;}
 
 }
+
 
 .videoWrapper {
   position: relative;
