@@ -2,7 +2,7 @@
 layout: post
 title: Day Eleven
 date: 2013-06-15 17:13:35
-published: false
+published: true
 ---
 You, Cochrane, what city sent for him?
 
