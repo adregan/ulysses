@@ -4,15 +4,13 @@
   margin: 0 auto;
   max-width: 730px;
   width: 90%;
-  @media (min-width: 500px) {width: 90%;}
-
 }
 
 .main-content {
   padding-bottom: 3em;
   header {
     padding: 1em 0 2em 0;
-    @media (min-width: 500px) {padding-top:2em;}
+    @media (min-width: 550px) {padding-top:2em;}
   }
 }
 
@@ -21,13 +19,13 @@
   padding-top: .5em;
   margin: 0;
   text-align: center;
-  @media (min-width: 500px) {line-height: .9; padding-top: 0;}
+  @media (min-width: 550px) {line-height: .9; padding-top: 0;}
 
 }
 
 .button {
   display: inline-block;
-  @media (min-width: 500px) {
+  @media (min-width: 550px) {
     float: left;
     position: absolute;
   }
@@ -35,7 +33,7 @@
 
 header.main {
   padding-top: 1em;
-  @media (min-width: 500px) {padding-top: 2em;}
+  @media (min-width: 550px) {padding-top: 2em;}
 }
 
 .intro {
@@ -56,7 +54,7 @@ blockquote {
   margin: 0 auto;
   padding: 1em 0;
   width: 90%;
-  @media (min-width: 500px) {width: 85%;}
+  @media (min-width: 550px) {width: 85%;}
   @media (min-width: 700px) {width: 75%;}
 
 }

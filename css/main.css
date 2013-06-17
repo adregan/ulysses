@@ -382,15 +382,12 @@ blockquote {
   margin: 0 auto;
   max-width: 730px;
   width: 90%; }
-  @media (min-width: 500px) {
-    .page-wrap {
-      width: 90%; } }
 
 .main-content {
   padding-bottom: 3em; }
   .main-content header {
     padding: 1em 0 2em 0; }
-    @media (min-width: 500px) {
+    @media (min-width: 550px) {
       .main-content header {
         padding-top: 2em; } }
 
@@ -399,21 +396,21 @@ blockquote {
   padding-top: .5em;
   margin: 0;
   text-align: center; }
-  @media (min-width: 500px) {
+  @media (min-width: 550px) {
     .page-title {
       line-height: .9;
       padding-top: 0; } }
 
 .button {
   display: inline-block; }
-  @media (min-width: 500px) {
+  @media (min-width: 550px) {
     .button {
       float: left;
       position: absolute; } }
 
 header.main {
   padding-top: 1em; }
-  @media (min-width: 500px) {
+  @media (min-width: 550px) {
     header.main {
       padding-top: 2em; } }
 
@@ -432,7 +429,7 @@ blockquote {
   margin: 0 auto;
   padding: 1em 0;
   width: 90%; }
-  @media (min-width: 500px) {
+  @media (min-width: 550px) {
     blockquote {
       width: 85%; } }
   @media (min-width: 700px) {
