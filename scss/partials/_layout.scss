@@ -43,7 +43,8 @@ header.main {
 }
 
 .posts {
-  padding-top: .67em;
+  margin: 0;
+  padding-bottom: 1.5em;
   text-align: center;
   dd {
     margin: 0;
@@ -60,6 +61,11 @@ blockquote {
 
 }
 
+.section {
+  font-size: 2em;
+  padding-bottom: 2em;
+  text-align: center;
+}
 
 .videoWrapper {
   position: relative;
