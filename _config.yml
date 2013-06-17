@@ -1,5 +1,6 @@
 name: Two Pages of Ulysses a Day
 pygments: true
 permalink: :title
+author: Duncan Regan
 timezone: Asia/Tokyo
 description: "Over the next year, I'm retyping the whole of James Joyce's Ulysses two pages a day."
