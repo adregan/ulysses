@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Day Fifteen 
-date: 2013-06-19
+title: Day Fifteen
+date: 2013-06-19T00:00:00.000Z
 published: false
 ---
+
+![None](/_posts/jpeg.jpeg)
