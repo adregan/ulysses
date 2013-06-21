@@ -4,7 +4,7 @@ title: Day Four
 date: 2013-06-05 10:39:48
 published: true
 ---
-<br>
+
 —Of what then? Buck Mulligan asked.
 
 —Of the offence to me, Stephen answered.

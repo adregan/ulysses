@@ -4,7 +4,7 @@ title: Day Five
 date: 2013-06-06 
 published: true
 ---
-<br>
+
 —I get paid this morning, Stephen said. 
 
 —The school kip? Buck Mulligan said. How much? Four quid? Lend us one.

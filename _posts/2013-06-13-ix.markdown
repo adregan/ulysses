@@ -4,6 +4,7 @@ title: 'Day Nine'
 date: 2013-06-13 
 published: true
 ---
+
 the brims of his Panama hat quivering, and began to chant in a quiet happy foolish voice:
 
 > —I'm the queerest young fellow that ever you heard. <br>
