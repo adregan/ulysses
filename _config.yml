@@ -1,5 +1,6 @@
 name: Two Pages of Ulysses a Day
 pygments: true
+markdown: rdiscount
 permalink: :title
 author: Duncan Regan
 timezone: Asia/Tokyo
