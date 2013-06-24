@@ -1,0 +1,6 @@
+---
+layout: post
+title: xx
+date: 2013-06-24 21:37:21.500346000 +09:00
+published: false
+---
