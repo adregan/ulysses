@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Day Eighteen
-date: 2013-06-22 17:53:25
+date: 2013-06-22 
 published: true
 ---
 

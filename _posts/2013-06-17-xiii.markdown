@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Day Thirteen
-date: 2013-06-17 10:46:59
+date: 2013-06-17 
 published: true
 ---
 
