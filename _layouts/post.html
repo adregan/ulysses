@@ -7,4 +7,14 @@ layout: default
 <article class="readable">
 {{ content }}
 </article>
+<nav class="page-nav">
+{% if page.previous.url %}
+<a href="{{page.previous.url}}" class="previous">previous</a>
+{% endif %}
+
+{% if page.next.url %}
+<a href="{{page.next.url}}" class="next">next</a>
+{% endif %}
+
+</nav>
 </section>

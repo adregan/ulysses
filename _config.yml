@@ -2,6 +2,8 @@ name: Two Pages of Ulysses a Day
 pygments: true
 markdown: redcarpet
 permalink: :title
+paginate: 5
+paginate_path: "blog/page:num"
 author: Duncan Regan
 timezone: Asia/Tokyo
 description: "Over the next year, I'm retyping the whole of James Joyce's Ulysses two pages a day."

@@ -65,6 +65,11 @@ blockquote {
   text-align: center;
 }
 
+.page-nav {
+  padding-top: 2em;
+  .next{float: right;}
+}
+
 .videoWrapper {
   position: relative;
   padding-bottom: 56.25%; /* 16:9 */
