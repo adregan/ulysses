@@ -1,5 +1,4 @@
 name: Two Pages of Ulysses a Day
-pygments: true
 markdown: redcarpet
 permalink: :title
 paginate: 5
